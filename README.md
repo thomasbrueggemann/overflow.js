@@ -10,3 +10,7 @@ This can help you in a lot of cases to trackdown your bugs more easily.
 ###What this is not
 
 Seriously, this is not going to change the way you debug applications in general, but it might give you a quick hint where to look at, in case you stumble upon a nifty exception.
+
+###Throttles
+
+overflow.js obviously underlays the following throttles http://api.stackexchange.com/docs/throttle
