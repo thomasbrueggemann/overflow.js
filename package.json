@@ -1,0 +1,9 @@
+{
+	"name": "overflow.js",
+	"description": "Catches your unhandled exceptions and throws back the first answer on stackoverflow.com to this problem.",
+	"version": "0.0.1",
+	"private": false,
+	"dependencies": {
+		"request": "latest"
+	}
+}
