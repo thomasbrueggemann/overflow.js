@@ -7,7 +7,7 @@ This is still in early development phase. You'll be informed how to install this
 
 ###What this is
 
-Let's make error handling a bit smarter. overflow.js displays the as-correct-marked answer of the first stackoverflow question it can find, concerning your unhandled ecxeption. Let's be honest, what would we be without stackoverflow.com
+Let's make error handling a bit smarter. overflow.js displays the accepted answer of the first stackoverflow question it can find, concerning your unhandled ecxeption. Let's be honest, what would we do without stackoverflow.com?
 
 This can help you in a lot of cases to trackdown your bugs more easily.
 
