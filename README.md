@@ -1,6 +1,14 @@
 overflow.js
 ===========
 
+###Installation
+
+Installation is easy as can be with npm:
+
+```javascript
+npm install overflow
+```
+
 ###What this is
 
 Let's make error handling a bit smarter. overflow.js displays the as-correct-marked answer of the first stackoverflow question it can find, concerning your unhandled ecxeption. Let's be honest, what would we be without stackoverflow.com
