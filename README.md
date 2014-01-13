@@ -3,11 +3,7 @@ overflow.js
 
 ###Installation
 
-You won't be able to yet, due to its pre-release-development phase, but in the future, you can install overflow.js via:
-
-```javascript
-npm install overflow
-```
+This is still in early development phase. You'll be informed how to install this, as soon as possible.
 
 ###What this is
 
